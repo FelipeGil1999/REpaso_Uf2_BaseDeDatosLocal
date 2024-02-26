@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Repaso_BaseDeDatosLocal</string>
+    <string name="matricula">Matricula: </string>
+    <string name="nombre">Nombre: </string>
+    <string name="insert">Añadir</string>
+    <string name="show">Mostrar</string>
+    <string name="si">Si</string>
+    <string name="no">No </string>
+    <string name="borrar">Seguro qué quiere eliminar el elemento?</string>
+</resources>
